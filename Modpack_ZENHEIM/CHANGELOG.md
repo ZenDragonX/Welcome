@@ -1,3 +1,8 @@
+v1.4.0
+- integrated the basic feature of the "Smoke Collision" mod directly into ZenWorldSettings and optimized it.
+- removed Smoke Collsion mod from the modpack
+- removed Projectile Collision mod from the modpack
+
 v1.3.5
 - update readme.
 
