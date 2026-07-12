@@ -1,3 +1,6 @@
+v1.3.2
+- update all mods in the manifest to latest versions.
+
 v1.3.1
 - update ZenRedecorate, ZenPlayer, and ZenMap to use the latest versions.
 

@@ -1,3 +1,6 @@
+v1.4.1
+- updated the reference to Zenmodpack_CORE to the latest version, no functional changes. Just version numbering updates.
+
 v1.4.0
 - integrated the basic feature of the "Smoke Collision" mod directly into ZenWorldSettings and optimized it.
 - removed Smoke Collsion mod from the modpack
